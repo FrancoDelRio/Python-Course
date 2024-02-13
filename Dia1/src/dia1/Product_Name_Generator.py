@@ -1,0 +1,1 @@
+print ('Tu producto se llama:\n' + input('¿Animal favorito? ') + " " + input('¿Letra girega favorita? '))
