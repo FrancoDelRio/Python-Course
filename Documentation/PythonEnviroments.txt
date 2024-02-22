@@ -1,2 +1,14 @@
 Creation of Python Envirotents.
 
+1. cd path/to/MyProject
+
+2. pip install virtualenv
+
+3. virtualenv venv
+
+4. source venv/bin/activate
+.\venv\Scripts\activate (Windows)
+    pip install Flask
+
+5. deactivate
+
